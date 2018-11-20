@@ -47,7 +47,8 @@
 * 将仓库跟新到远程仓库(push)
 	* git remote add origin git@github.com:HIbian/GitNotes.git
 	* git push -u origin master
-
+* pull
+	* git pull origin
 
 
 
