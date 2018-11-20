@@ -34,7 +34,8 @@
 	* git branch
 * 在当前版本上创建新的分支
 	* git branch 分支名
-* 
+* 切换分支
+	* git checkout 分支名
 
 
 
