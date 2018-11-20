@@ -37,8 +37,11 @@
 * 切换分支
 	* git checkout 分支名
 
+* 解决分支冲突需要再提交
 * 合并分支A
 	* git merge A
+* 合并分支B
+	* git merge B
 
 
 
