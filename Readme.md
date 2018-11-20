@@ -42,8 +42,11 @@
 	* git merge A
 * 合并分支B
 	* git merge B
-
-
+* 删除分支
+	* git branch -d 分支名
+* 将仓库跟新到远程仓库(push)
+	* git remote add origin git@github.com:HIbian/GitNotes.git
+	* git push -u origin master
 
 
 
