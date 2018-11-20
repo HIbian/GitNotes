@@ -9,7 +9,10 @@
 * 查看状态
 	* git status
 	* git status -s
-* 查看详细信息
+* 查看修改信息
 	* git diff
 * 添加修改
-	* git add 
+	* git add 文件名
+* 提交
+	* git commit -m "注释信息"
+* 
