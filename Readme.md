@@ -8,7 +8,7 @@
 	* git init
 * 查看状态
 	* git status
-	* git status -s
+	* git status -s 简化格式
 * 查看修改信息
 	* git diff
 * 添加修改
@@ -18,4 +18,27 @@
 * 查看日志版本
 	* git log
 	* git log --pretty=oneline 一行显示
+	
+* 回退到指定版本
+	* git reset --hard HEAD 版本
+* 回退到上个版本
+	* git reset --hard HEAD^
+* 退两个版本
+	* git reset --hard HEAD~2
+* 查询操作记录
 	* git reflog (--pretty=oneline)简写版本号
+* 直接回退到一个指定的版本
+	* git reset --hard 版本号
+	
+* 查看当前所在分支
+	* git branch
+* 
+
+
+
+
+
+
+
+
+
