@@ -37,6 +37,8 @@
 * 切换分支
 	* git checkout 分支名
 
+* 合并分支A
+	* git merge A
 
 
 
